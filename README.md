@@ -95,3 +95,6 @@ class TestCurrencyList(unittest.TestCase):
 *   Класс `CurrencyList` получает и хранит данные.
 *   `JSONDecorator` и `CSVDecorator` форматируют данные в JSON и CSV соответственно.
 *   Тесты проверяют, что данные получаются правильно в разных форматах и что данные обновляются, когда они устаревают.
+
+![image](https://github.com/user-attachments/assets/b0984463-87e9-4e94-ab54-83fa28cf7a20)
+
